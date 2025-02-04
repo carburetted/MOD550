@@ -1,0 +1,11 @@
+{
+    "total_buildings": 760500,
+    "total_trips": 144.24405296287384,
+    "winter_coefficient": 1.056295876259343,
+    "diesel_price": 21,
+    "electricity_price": 1.3004013641132814,
+    "supercharger_price": 5.5,
+    "trips_noise": 0.15,
+    "winter_noise": 0.2,
+    "electricity_price_noise": 0.4
+}
