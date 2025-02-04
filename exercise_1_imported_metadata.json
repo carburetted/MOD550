@@ -1,0 +1,22 @@
+{
+    "dataset1": {
+        "type": "random",
+        "x_range": [
+            0,
+            10
+        ],
+        "y_range": [
+            0,
+            10
+        ]
+    },
+    "dataset2": {
+        "type": "noisy_function",
+        "x_range": [
+            0,
+            6.283185307179586
+        ],
+        "noise_std": 0.2,
+        "function": "sin"
+    }
+}
